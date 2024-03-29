@@ -1,6 +1,5 @@
 <?php
 
-<?php
 // 定義介面
 interface Shape {
     public function draw();
